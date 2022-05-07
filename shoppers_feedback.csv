@@ -1,0 +1,399 @@
+User height	User chest shape	User belly shape	User hips shape	User leg shape	User preferred bottoms fit	User preferred tops fit	User most common top size	User top size tendency (whether or not they sometimes by bigger/smaller size, instead of their most common)	User most common bottoms size	User bottoms size tendency (whether or not they sometimes by bigger/smaller size, instead of their most common)	User fit challenges with tops legth	User fit challenges	User fit challenges with sleeves\	User fit challenges with chest fit	User fit challenges with waist fit	User fit challenges with waistband fit	User fit challenges with hips fit	User fit challenges with thighs fit	Purchased product ID	Purchased size	Purchased product overall fit	Purchased product overall fit overall length	Purchased product overall size	Purchased product sleeve fit	Purchased product chest fit	Purchased product waistband fit	Purchased product waist fit	Purchased product hip fit	Purchased product thigh fit	Purchased product gender	Purchased product type
+168	average	average				regular	40	bigger			too_long		too_long	too_tight	too_tight				470	38	good	short	good	good	good		good			f	T-Shirts
+168	average	average				regular	40	bigger			too_long		too_long	too_tight	too_tight				470	38	good	short	good	good	good		good			f	T-Shirts
+168	average	average				regular	40	bigger			too_long		too_long	too_tight	too_tight				792	38	good	good	good	good	good		good	good		f	Buksedragter
+187	average	average				regular	48	exact			too_short		too_short	too_tight	too_loose				1166	46	good	short	bigger	good	good		good	good		f	Kjoler
+175	slim	average				regular	40	bigger			too_short		too_short	too_loose	no_problem				447	38	good	good	good	good	loose		good	good		f	Kjoler
+167	broad	round				regular	48	exact			too_short		no_problem	too_tight	no_problem				470	46	loose	short	bigger	good	loose		loose			f	T-Shirts
+167	broad	round				regular	48	exact			too_short		no_problem	too_tight	no_problem				470	46	loose	short	bigger	good	loose		loose			f	T-Shirts
+166	broad	average				regular	40	smaller			too_long		no_problem	too_tight	too_tight				3075	40	good	good	good	short	good		good	good		f	Alle produkter,Buksedragter,EVERY
+166	broad	average				regular	40	smaller			too_long		no_problem	too_tight	too_tight				470	40	good	good	good	good	good		good			f	T-Shirts
+166	broad	average				regular	40	smaller			too_long		no_problem	too_tight	too_tight				470	40	good	good	good	good	good		good			f	T-Shirts
+168	broad	average				regular	40	smaller			no_problem		too_short	too_tight	too_tight				3075	38	good	good	good	short	good		tight	good		f	Alle produkter,Buksedragter,EVERY
+175	slim	average				regular	44	exact			too_short		no_problem	no_problem	too_tight				792	42	good	short	good	good	good		good	good		f	Buksedragter
+170	average	round				regular	44	bigger			no_problem		too_long	no_problem	too_tight				470	38	good	short	good	short	good		good			f	T-Shirts
+170	average	round				regular	44	bigger			no_problem		too_long	no_problem	too_tight				470	38	good	short	good	short	good		good			f	T-Shirts
+160	average	round				slim	44	bigger			too_long		too_long	too_loose	too_tight				383	44	loose	good	good	good	loose		good	good		f	Kjoler
+165	broad	average				regular	40	smaller			too_long		too_long	too_tight	no_problem				383	36	good	long	good	good	good		good	good		f	Kjoler
+165	broad	average				regular	40	smaller			too_long		too_long	too_tight	no_problem				792	34	good	good	good	good	good		good	good		f	Buksedragter
+171	broad	average	average	muscular	regular	slim	40	bigger	40	exact	too_short	too_long	no_problem	too_tight	no_problem	too_loose	no_problem	no_problem	2832	38	tight	long	good			good		good	tight	f	Nederdele
+171	broad	average	average	muscular	regular	slim	40	bigger	40	exact	too_short	too_long	no_problem	too_tight	no_problem	too_loose	no_problem	no_problem	3607	38	good	good	bigger			good		good	loose	f	Bukser
+171	broad	average	average	muscular	regular	slim	40	bigger	40	exact	too_short	too_long	no_problem	too_tight	no_problem	too_loose	no_problem	no_problem	686	38	loose	good	bigger	good	loose		good			f	Toppe
+171	broad	average	average	muscular	regular	slim	40	bigger	40	exact	too_short	too_long	no_problem	too_tight	no_problem	too_loose	no_problem	no_problem	686	38	loose	good	bigger	good	loose		good			f	Toppe
+175	average	flat				regular	38	exact			no_problem		too_short	too_tight	too_tight				1166	36	tight	good	smaller	good	good		tight	good		f	Kjoler
+170	broad	average				regular	44	smaller			no_problem		no_problem	too_loose	too_tight				792	42	good	short	smaller	good	loose		tight	tight		f	Buksedragter
+171	average	round	wide	muscular	loose	loose	38	exact	38	smaller	too_short	too_short	no_problem	too_tight	too_tight	too_tight	too_tight	too_tight	2832	38	good	good	good			good		good	good	f	Nederdele
+171	average	round	wide	muscular	loose	loose	38	exact	38	smaller	too_short	too_short	no_problem	too_tight	too_tight	too_tight	too_tight	too_tight	3607	38	good	good	good			good		good	good	f	Bukser
+169	average	flat	wide	muscular	regular	regular	36	smaller	36	smaller	too_long	too_long	too_short	too_tight	too_loose	too_loose	too_tight	too_tight	3607	36	tight	short	good			tight		good	good	f	Bukser
+169	average	flat	wide	muscular	regular	regular	36	smaller	36	smaller	too_long	too_long	too_short	too_tight	too_loose	too_loose	too_tight	too_tight	686	36	good	good	good	good	good		good			f	Toppe
+169	average	flat	wide	muscular	regular	regular	36	smaller	36	smaller	too_long	too_long	too_short	too_tight	too_loose	too_loose	too_tight	too_tight	686	36	good	good	good	good	good		good			f	Toppe
+162	average	flat				regular	34	smaller			no_problem		no_problem	no_problem	no_problem				470	34	loose	short	bigger	good	good		loose			f	T-Shirts
+162	average	flat				regular	34	smaller			no_problem		no_problem	no_problem	no_problem				470	34	loose	short	bigger	good	good		loose			f	T-Shirts
+162	average	flat				regular	34	smaller			no_problem		no_problem	no_problem	no_problem				686	36	good	good	good	good	good		good			f	Toppe
+162	average	flat				regular	34	smaller			no_problem		no_problem	no_problem	no_problem				686	36	good	good	good	good	good		good			f	Toppe
+184	average	average	wide	muscular	regular	regular	44	exact	44	exact	too_short	too_short	no_problem	no_problem	too_loose	too_loose	too_tight	too_tight	3607	42	good	good	good			good		good	good	f	Bukser
+158	average	round				regular	40	exact			too_long		too_long	no_problem	too_tight				447	36	good	good	good	good	good		good	good		f	Kjoler
+158	average	round				regular	40	exact			too_long		too_long	no_problem	too_tight				792	36	good	good	good	good	good		good	good		f	Buksedragter
+167	broad	round	wide	muscular	regular	regular	44	bigger	44	exact	no_problem	too_long	too_long	too_tight	too_tight	too_tight	too_tight	too_tight	3540	46	good	good	good	good	good		good	good		f	Kjoler
+167	broad	round	wide	muscular	regular	regular	44	bigger	44	exact	no_problem	too_long	too_long	too_tight	too_tight	too_tight	too_tight	too_tight	792	44	tight	good	smaller	good	loose		good	good		f	Buksedragter
+168	broad	average				regular	44	bigger			too_long		no_problem	too_tight	too_tight				1166	42	good	good	good	good	good		good	good		f	Kjoler
+168	broad	average				regular	44	bigger			too_long		no_problem	too_tight	too_tight				470	40	good	long	good	good	good		good			f	T-Shirts
+168	broad	average				regular	44	bigger			too_long		no_problem	too_tight	too_tight				470	40	good	long	good	good	good		good			f	T-Shirts
+164	average	average				regular	38	exact			no_problem		no_problem	no_problem	no_problem				470	38	good	good	good	good	good		good			f	T-Shirts
+164	average	average				regular	38	exact			no_problem		no_problem	no_problem	no_problem				470	38	good	good	good	good	good		good			f	T-Shirts
+168	average	average				regular	40	smaller			too_long		too_long	too_loose	too_tight				792	40	good	good	good	good	good		good	good		f	Buksedragter
+177	broad	average				slim	40	bigger			too_long		no_problem	too_loose	no_problem				470	38	good	short	good	good	good		good			f	T-Shirts
+177	broad	average				slim	40	bigger			too_long		no_problem	too_loose	no_problem				470	38	good	short	good	good	good		good			f	T-Shirts
+166	broad	round	wide	muscular	regular	regular	42	smaller	42	bigger	no_problem	no_problem	too_short	no_problem	too_tight	too_tight	too_tight	too_tight	3540	44	good	good	good	good	good		good	good		f	Kjoler
+166	broad	round	wide	muscular	regular	regular	42	smaller	42	bigger	no_problem	no_problem	too_short	no_problem	too_tight	too_tight	too_tight	too_tight	3607	42	good	good	good			good		good	good	f	Bukser
+166	broad	round	wide	muscular	regular	regular	42	smaller	42	bigger	no_problem	no_problem	too_short	no_problem	too_tight	too_tight	too_tight	too_tight	470	40	good	good	good	good	good		good			f	T-Shirts
+166	broad	round	wide	muscular	regular	regular	42	smaller	42	bigger	no_problem	no_problem	too_short	no_problem	too_tight	too_tight	too_tight	too_tight	470	40	good	good	good	good	good		good			f	T-Shirts
+173	broad	round				regular	44	smaller			no_problem		no_problem	too_tight	too_tight				3075	44	tight	good	smaller	good	too_tight		good	good		f	Alle produkter,Buksedragter,EVERY
+177	broad	round				regular	52	bigger			too_short		too_short	too_tight	too_tight				383	50	good	short	good	good	good		good	good		f	Kjoler
+174	slim	round	average	muscular	slim	slim	40	bigger	41	smaller	too_long	too_long	no_problem	no_problem	too_loose	no_problem	no_problem	too_tight	2832	40	tight	long	smaller			good		tight	tight	f	Nederdele
+174	slim	round	average	muscular	slim	slim	40	bigger	41	smaller	too_long	too_long	no_problem	no_problem	too_loose	no_problem	no_problem	too_tight	470	38	good	long	bigger	good	good		good			f	T-Shirts
+174	slim	round	average	muscular	slim	slim	40	bigger	41	smaller	too_long	too_long	no_problem	no_problem	too_loose	no_problem	no_problem	too_tight	470	38	good	long	bigger	good	good		good			f	T-Shirts
+174	slim	round	average	muscular	slim	slim	40	bigger	41	smaller	too_long	too_long	no_problem	no_problem	too_loose	no_problem	no_problem	too_tight	792	38	tight	short	smaller	good	good		tight	tight		f	Buksedragter
+155	broad	round	average	muscular	regular	regular	42	smaller	42	smaller	too_long	too_long	too_long	too_tight	too_tight	too_tight	too_tight	too_tight	470	42	good	good	good	short	good		good			f	T-Shirts
+155	broad	round	average	muscular	regular	regular	42	smaller	42	smaller	too_long	too_long	too_long	too_tight	too_tight	too_tight	too_tight	too_tight	470	42	good	good	good	short	good		good			f	T-Shirts
+162	average	flat				regular	40	exact			no_problem		no_problem	no_problem	too_tight				470	40	good	good	good	good	good		good			f	T-Shirts
+162	average	flat				regular	40	exact			no_problem		no_problem	no_problem	too_tight				470	40	good	good	good	good	good		good			f	T-Shirts
+161	broad	round				regular	42	exact			no_problem		too_short	too_tight	too_tight				1132	42	tight	long	smaller	good	good		too_tight	good		f	Kjoler
+161	broad	round				regular	42	exact			no_problem		too_short	too_tight	too_tight				686	42	good	good	good	good	good		good			f	Toppe
+161	broad	round				regular	42	exact			no_problem		too_short	too_tight	too_tight				686	42	good	good	good	good	good		good			f	Toppe
+170	broad	round				regular	38	bigger			too_long		no_problem	too_tight	no_problem				1132	38	loose	good	good	short	good		loose	loose		f	Kjoler
+168	average	round				regular	46	exact			too_short		no_problem	too_tight	too_tight				3540	42	tight	long	good	good	tight		tight	loose		f	Kjoler
+165	broad	round				regular	51	bigger			too_long		too_long	too_tight	too_tight				3075	52	good	good	good	good	good		good	good		f	Alle produkter,Buksedragter,EVERY
+167	broad	round				loose	46	exact			too_long		too_long	too_tight	too_tight				700	44	good	short	good	good	good		good			f	Alle produkter,EVERY,Overdele
+167	broad	round				loose	46	exact			too_long		too_long	too_tight	too_tight				700	44	good	short	good	good	good		good			f	Alle produkter,EVERY,Overdele
+170	broad	flat				regular	42	exact			too_short		no_problem	too_tight	no_problem				383	42	tight	good	good	good	tight		good	good		f	Kjoler
+170	broad	flat				regular	42	exact			too_short		no_problem	too_tight	no_problem				792	42	good	good	good	good	good		good	good		f	Buksedragter
+175	broad	round				regular	50	exact			too_short		too_short	too_loose	too_tight				1076	50	loose	good	too_big	good	loose		loose	good		f	Kjoler
+178	average	average				slim	40	exact			too_short		no_problem	no_problem	too_tight				470	38	good	good	good	good	good		good			f	T-Shirts
+178	average	average				slim	40	exact			too_short		no_problem	no_problem	too_tight				470	38	good	good	good	good	good		good			f	T-Shirts
+178	average	round				regular	44	exact			no_problem		no_problem	no_problem	no_problem				383	44	good	good	good	good	good		good	good		f	Kjoler
+174	broad	round				regular	46	smaller			too_short		too_short	too_tight	no_problem				383	48	loose	short	good	short	good		good	good		f	Kjoler
+180	broad	round				regular	44	smaller			too_short		too_short	too_tight	too_tight				447	44	loose	good	bigger	good	loose		loose	good		f	Kjoler
+172	broad	round				regular	44	exact			too_long		no_problem	too_tight	too_tight				1166	44	good	good	good	good	good		loose	good		f	Kjoler
+172	average	round	wide	muscular	regular	regular	44	exact	44	exact	no_problem	no_problem	too_short	no_problem	too_tight	no_problem	no_problem	too_tight	470	42	good	good	good	good	good		good			f	T-Shirts
+172	average	round	wide	muscular	regular	regular	44	exact	44	exact	no_problem	no_problem	too_short	no_problem	too_tight	no_problem	no_problem	too_tight	470	42	good	good	good	good	good		good			f	T-Shirts
+172	average	round	wide	muscular	regular	regular	44	exact	44	exact	no_problem	no_problem	too_short	no_problem	too_tight	no_problem	no_problem	too_tight	846	44	good	good	good			good		good	good	f	Alle produkter,Bukser
+181	average	average	average	muscular	regular	regular	42	bigger	42	bigger	too_short	too_short	no_problem	no_problem	too_tight	no_problem	no_problem	no_problem	1166	40	loose	good	good	good	loose		loose	tight		f	Kjoler
+158	slim	round				regular	44	exact			too_short		no_problem	too_loose	too_tight				383	44	loose	long	bigger	good	loose		tight	tight		f	Kjoler
+172	slim	round				loose	44	bigger			no_problem		no_problem	no_problem	too_tight				3075	42	loose	good	good	good	loose		good	good		f	Alle produkter,Buksedragter,EVERY
+163	average	average	average	muscular	regular	regular	38	smaller	40	exact	too_short	too_long	too_long	too_tight	no_problem	no_problem	no_problem	no_problem	470	38	loose	good	bigger	good	good		loose			f	T-Shirts
+163	average	average	average	muscular	regular	regular	38	smaller	40	exact	too_short	too_long	too_long	too_tight	no_problem	no_problem	no_problem	no_problem	470	38	loose	good	bigger	good	good		loose			f	T-Shirts
+163	broad	round				regular	42	bigger			too_long		no_problem	no_problem	no_problem				3075	40	good	good	good	good	good		tight	tight		f	Alle produkter,Buksedragter,EVERY
+155	average	average	wide	muscular	slim	regular	36	exact	36	smaller	too_long	too_long	too_long	no_problem	no_problem	no_problem	too_tight	too_tight	470	34	good	good	good	good	good		good			f	T-Shirts
+155	average	average	wide	muscular	slim	regular	36	exact	36	smaller	too_long	too_long	too_long	no_problem	no_problem	no_problem	too_tight	too_tight	470	34	good	good	good	good	good		good			f	T-Shirts
+172	broad	round				regular	46	exact			no_problem		no_problem	no_problem	no_problem				1166	46	loose	good	good	long	loose		good	good		f	Kjoler
+164	slim	average				regular	36	smaller			too_long		no_problem	no_problem	too_loose				1076	38	loose	long	bigger	good	loose		loose	good		f	Kjoler
+164	slim	average				regular	36	smaller			too_long		no_problem	no_problem	too_loose				1166	38	loose	good	good	good	too_loose		good	good		f	Kjoler
+164	slim	average				regular	36	smaller			too_long		no_problem	no_problem	too_loose				792	38	loose	long	good	good	too_loose		good	loose		f	Buksedragter
+172	slim	average	average	muscular	regular	regular	42	exact	42	exact	too_short	too_short	no_problem	too_loose	no_problem	no_problem	too_tight	no_problem	2832	42	good	good	good			good		good	good	f	Nederdele
+172	slim	average	average	muscular	regular	regular	42	exact	42	exact	too_short	too_short	no_problem	too_loose	no_problem	no_problem	too_tight	no_problem	470	40	loose	good	bigger	good	loose		loose			f	T-Shirts
+172	slim	average	average	muscular	regular	regular	42	exact	42	exact	too_short	too_short	no_problem	too_loose	no_problem	no_problem	too_tight	no_problem	470	40	loose	good	bigger	good	loose		loose			f	T-Shirts
+183	average	round	wide	muscular	regular	regular	44	smaller	46	exact	too_short	too_short	too_short	too_tight	no_problem	too_tight	too_tight	too_tight	1213	46	good	good	good			good		good	good	f	Alle produkter,Nederdele
+183	average	round	wide	muscular	regular	regular	44	smaller	46	exact	too_short	too_short	too_short	too_tight	no_problem	too_tight	too_tight	too_tight	686	46	good	short	good	good	good		good			f	Toppe
+183	average	round	wide	muscular	regular	regular	44	smaller	46	exact	too_short	too_short	too_short	too_tight	no_problem	too_tight	too_tight	too_tight	686	46	good	short	good	good	good		good			f	Toppe
+168	broad	average				regular	40	smaller			no_problem		no_problem	too_tight	no_problem				1023	40	good	short	good	good	good		good	good		f	Alle produkter,Buksedragter
+163	average	average	slim	muscular	slim	slim	40	bigger	38	exact	too_long	too_long	too_long	no_problem	no_problem	no_problem	no_problem	too_tight	792	36	good	long	good	good	good		good	good		f	Buksedragter
+170	broad	average				regular	40	smaller			too_long		no_problem	too_tight	too_tight				470	40	good	good	good	short	good		good			f	T-Shirts
+170	broad	average				regular	40	smaller			too_long		no_problem	too_tight	too_tight				470	40	good	good	good	short	good		good			f	T-Shirts
+178	broad	round				regular	46	smaller			too_short		too_short	too_tight	too_tight				961	46	tight	good	smaller	good	tight		tight	loose		f	Alle produkter,Kjoler
+178	slim	average				regular	42	smaller			too_short		no_problem	too_loose	no_problem				1166	40	loose	good	good	good	loose		loose	good		f	Kjoler
+176	broad	average				regular	50	exact			too_short		no_problem	too_tight	no_problem				1076	52	tight	good	smaller	short	loose		tight	good		f	Kjoler
+176	broad	average				regular	50	exact			too_short		no_problem	too_tight	no_problem				470	50	good	short	good	good	good		good			f	T-Shirts
+176	broad	average				regular	50	exact			too_short		no_problem	too_tight	no_problem				470	50	good	short	good	good	good		good			f	T-Shirts
+176	broad	average				regular	50	exact			too_short		no_problem	too_tight	no_problem				746	50	good	good	good	good	good		good			f	Toppe
+176	broad	average				regular	50	exact			too_short		no_problem	too_tight	no_problem				746	50	good	good	good	good	good		good			f	Toppe
+174	slim	average				regular	38	exact			no_problem		no_problem	no_problem	no_problem				1166	38	loose	long	bigger	good	loose		loose	loose		f	Kjoler
+174	slim	average				regular	38	exact			no_problem		no_problem	no_problem	no_problem				470	36	good	good	good	good	good		good			f	T-Shirts
+174	slim	average				regular	38	exact			no_problem		no_problem	no_problem	no_problem				470	36	good	good	good	good	good		good			f	T-Shirts
+165	broad	round				regular	40	exact			no_problem		too_long	too_tight	too_tight				470	40	good	good	good	good	good		good			f	T-Shirts
+165	broad	round				regular	40	exact			no_problem		too_long	too_tight	too_tight				470	40	good	good	good	good	good		good			f	T-Shirts
+165	broad	round				regular	40	exact			no_problem		too_long	too_tight	too_tight				746	40	good	short	good	good	good		good			f	Toppe
+165	broad	round				regular	40	exact			no_problem		too_long	too_tight	too_tight				746	40	good	short	good	good	good		good			f	Toppe
+168	broad	average				regular	40	exact			no_problem		too_long	too_tight	too_tight				447	40	good	good	good	good	good		good	loose		f	Kjoler
+167	average	average				regular	38	smaller			no_problem		no_problem	no_problem	too_tight				1166	40	loose	good	bigger	good	loose		good	good		f	Kjoler
+187	average	average				loose	46	smaller			too_long		too_long	too_tight	too_tight				792	52	good	good	good	good	good		good	good		f	Buksedragter
+173	broad	average				regular	42	smaller			no_problem		no_problem	too_tight	no_problem				1166	42	good	good	good	good	good		good	good		f	Kjoler
+170	broad	average				regular	42	smaller			too_long		no_problem	no_problem	no_problem				470	42	good	good	good	good	tight		good			f	T-Shirts
+170	broad	average				regular	42	smaller			too_long		no_problem	no_problem	no_problem				470	42	good	good	good	good	tight		good			f	T-Shirts
+170	broad	average				regular	42	smaller			too_long		no_problem	no_problem	no_problem				746	44	good	good	good	good	good		good			f	Toppe
+170	broad	average				regular	42	smaller			too_long		no_problem	no_problem	no_problem				746	44	good	good	good	good	good		good			f	Toppe
+169	broad	round				slim	44	smaller			no_problem		no_problem	no_problem	no_problem				1132	44	good	long	good	too_short	loose		good	good		f	Kjoler
+175	average	round				regular	48	bigger			too_long		too_long	no_problem	too_tight				470	48	good	good	good	good	good		good			f	T-Shirts
+175	average	round				regular	48	bigger			too_long		too_long	no_problem	too_tight				470	48	good	good	good	good	good		good			f	T-Shirts
+174	average	average				regular	40	smaller			too_short		too_short	too_tight	too_loose				1023	44	loose	good	bigger	good	loose		too_loose	loose		f	Alle produkter,Buksedragter
+168	average	round				regular	44	exact			no_problem		no_problem	no_problem	too_tight				447	44	tight	good	smaller	good	good		too_tight	tight		f	Kjoler
+168	broad	round				regular	48	smaller			too_long		too_long	too_tight	too_tight				1076	50	good	good	good	good	good		good	good		f	Kjoler
+168	broad	round				regular	48	smaller			too_long		too_long	too_tight	too_tight				792	50	good	good	good	good	good		good	good		f	Buksedragter
+165	broad	round				regular	40	bigger			too_long		no_problem	no_problem	no_problem				1132	38	good	good	bigger	good	good		good	good		f	Kjoler
+165	broad	round				regular	40	bigger			too_long		no_problem	no_problem	no_problem				792	38	good	good	good	good	good		good	good		f	Buksedragter
+175	broad	round				regular	46	smaller			no_problem		no_problem	too_tight	no_problem				792	46	good	good	good	good	good		good	good		f	Buksedragter
+168	slim	flat				regular	42	smaller			no_problem		no_problem	too_loose	too_loose				1023	42	loose	good	good	good	too_loose		too_loose	tight		f	Alle produkter,Buksedragter
+169	average	average	wide	muscular	regular	regular	38	smaller	40	smaller	too_long	too_long	no_problem	no_problem	too_tight	too_tight	too_tight	too_tight	470	38	good	good	good	good	good		good			f	T-Shirts
+169	average	average	wide	muscular	regular	regular	38	smaller	40	smaller	too_long	too_long	no_problem	no_problem	too_tight	too_tight	too_tight	too_tight	470	38	good	good	good	good	good		good			f	T-Shirts
+169	average	average	wide	muscular	regular	regular	38	smaller	40	smaller	too_long	too_long	no_problem	no_problem	too_tight	too_tight	too_tight	too_tight	846	40	good	long	good			good		good	good	f	Alle produkter,Bukser
+165	average	average				slim	40	smaller			too_long		too_long	no_problem	no_problem				1166	38	tight	long	smaller	good	good		tight	good		f	Kjoler
+170	slim	flat				regular	36	smaller			too_long		too_long	no_problem	no_problem				470	36	good	good	good	good	good		good			f	T-Shirts
+170	slim	flat				regular	36	smaller			too_long		too_long	no_problem	no_problem				470	36	good	good	good	good	good		good			f	T-Shirts
+173	broad	round				regular	42	bigger			no_problem		no_problem	too_tight	too_tight				1132	42	loose	good	good	good	good		good	loose		f	Kjoler
+163	average	flat				regular	36	bigger			too_long		no_problem	no_problem	no_problem				792	34	good	long	good	good	good		good	good		f	Buksedragter
+175	broad	average				regular	40	exact			no_problem		no_problem	too_tight	too_tight				1166	40	tight	long	smaller	good	good		good	tight		f	Kjoler
+169	average	round				regular	38	bigger			no_problem		no_problem	no_problem	no_problem				470	36	good	good	good	good	good		good			f	T-Shirts
+169	average	round				regular	38	bigger			no_problem		no_problem	no_problem	no_problem				470	36	good	good	good	good	good		good			f	T-Shirts
+170	broad	round				regular	50	smaller			no_problem		no_problem	too_tight	too_tight				1076	50	loose	good	good	good	loose		good	good		f	Kjoler
+175	broad	round				slim	46	bigger			no_problem		no_problem	too_tight	no_problem				1076	44	loose	good	bigger	good	too_loose		good	good		f	Kjoler
+160	broad	average				regular	44	bigger			too_long		too_long	too_tight	too_loose				792	44	loose	long	bigger	long	good		good	good		f	Buksedragter
+164	average	round				regular	41	exact			no_problem		no_problem	no_problem	no_problem				1010	42	tight	good	smaller	good	good		tight	good		f	Alle produkter,Kjoler
+164	average	round				regular	41	exact			no_problem		no_problem	no_problem	no_problem				1076	40	tight	good	smaller	good	tight		tight	good		f	Kjoler
+164	average	round				regular	41	exact			no_problem		no_problem	no_problem	no_problem				686	40	good	good	good	good	tight		good			f	Toppe
+164	average	round				regular	41	exact			no_problem		no_problem	no_problem	no_problem				686	40	good	good	good	good	tight		good			f	Toppe
+166	broad	round				regular	42	bigger			too_long		no_problem	too_tight	no_problem				1132	42	good	good	good	good	good		good	good		f	Kjoler
+173	average	round				regular	46	bigger			too_short		no_problem	no_problem	no_problem				792	44	loose	short	bigger	good	too_loose		loose	good		f	Buksedragter
+169	average	round				regular	52	exact			no_problem		too_short	no_problem	no_problem				686	52	good	short	good	good	good		good			f	Toppe
+169	average	round				regular	52	exact			no_problem		too_short	no_problem	no_problem				686	52	good	short	good	good	good		good			f	Toppe
+156	broad	round				regular	44	bigger			too_long		too_long	too_tight	too_tight				470	44	good	good	good	good	good		good			f	T-Shirts
+156	broad	round				regular	44	bigger			too_long		too_long	too_tight	too_tight				470	44	good	good	good	good	good		good			f	T-Shirts
+162	average	round				regular	38	smaller			too_long		too_long	no_problem	no_problem				470	38	tight	short	smaller	good	good		good			f	T-Shirts
+162	average	round				regular	38	smaller			too_long		too_long	no_problem	no_problem				470	38	tight	short	smaller	good	good		good			f	T-Shirts
+167	broad	round				regular	40	smaller			too_long		too_long	no_problem	too_tight				686	42	tight	good	good	good	good		good			f	Toppe
+167	broad	round				regular	40	smaller			too_long		too_long	no_problem	too_tight				686	42	tight	good	good	good	good		good			f	Toppe
+179	broad	round				regular	44	exact			too_short		too_short	too_tight	too_tight				383	46	good	good	good	good	good		good	good		f	Kjoler
+162							38	smaller											792	38	good	good	good	good	good		good	good		f	Buksedragter
+166	slim	average				regular	36	smaller			too_long		no_problem	no_problem	too_tight				447	36	good	good	good	good	good		good	good		f	Kjoler
+169	broad	round				regular	42	exact			too_long		too_long	too_tight	too_tight				3075	40	good	good	good	good	good		good	good		f	Alle produkter,Buksedragter,EVERY
+169	broad	round				regular	42	exact			too_long		too_long	too_tight	too_tight				470	38	good	good	good	good	good		good			f	T-Shirts
+169	broad	round				regular	42	exact			too_long		too_long	too_tight	too_tight				470	38	good	good	good	good	good		good			f	T-Shirts
+155	slim	round				regular	44	smaller			too_long		no_problem	no_problem	too_tight				2709	44	good	good	good	good	good		good	good		f	Kjoler
+162	average	average				regular	40	bigger			too_long		too_long	no_problem	no_problem				1166	34	good	good	too_big	good	good		good	good		f	Kjoler
+162	average	average	average	muscular	regular	regular	38	bigger	40	exact	too_long	too_long	no_problem	no_problem	no_problem	no_problem	no_problem	no_problem	1166	40	good	long	good	good	good		good	good		f	Kjoler
+162	average	average	average	muscular	regular	regular	38	bigger	40	exact	too_long	too_long	no_problem	no_problem	no_problem	no_problem	no_problem	no_problem	3607	40	good	long	good			good		good	good	f	Bukser
+164	slim	average	wide	muscular	regular	regular	36	bigger	36	smaller	no_problem	too_long	too_long	too_loose	too_loose	too_loose	too_tight	too_tight	3607	38	loose	good	bigger			too_loose		good	good	f	Bukser
+164	slim	average	wide	muscular	regular	regular	36	bigger	36	smaller	no_problem	too_long	too_long	too_loose	too_loose	too_loose	too_tight	too_tight	470	34	loose	good	bigger	good	loose		loose			f	T-Shirts
+164	slim	average	wide	muscular	regular	regular	36	bigger	36	smaller	no_problem	too_long	too_long	too_loose	too_loose	too_loose	too_tight	too_tight	470	34	loose	good	bigger	good	loose		loose			f	T-Shirts
+168	broad	round				regular	44	bigger			no_problem		no_problem	too_tight	too_tight				470	42	good	good	good	good	good		good			f	T-Shirts
+168	broad	round				regular	44	bigger			no_problem		no_problem	too_tight	too_tight				470	42	good	good	good	good	good		good			f	T-Shirts
+171	average	round				regular	46	bigger			too_long		no_problem	no_problem	too_tight				686	46	good	good	good	good	good		good			f	Toppe
+171	average	round				regular	46	bigger			too_long		no_problem	no_problem	too_tight				686	46	good	good	good	good	good		good			f	Toppe
+177	average	round				regular	44	smaller			too_short		too_short	no_problem	too_tight				470	44	good	good	good	good	good		loose			f	T-Shirts
+177	average	round				regular	44	smaller			too_short		too_short	no_problem	too_tight				470	44	good	good	good	good	good		loose			f	T-Shirts
+158	average	round	wide	muscular	regular	regular	42	smaller	44	exact	too_long	too_long	too_long	too_tight	too_tight	too_tight	no_problem	too_tight	3607	40	good	good	good			good		good	good	f	Bukser
+158	average	round	wide	muscular	regular	regular	42	smaller	44	exact	too_long	too_long	too_long	too_tight	too_tight	too_tight	no_problem	too_tight	470	40	good	good	good	good	good		good			f	T-Shirts
+158	average	round	wide	muscular	regular	regular	42	smaller	44	exact	too_long	too_long	too_long	too_tight	too_tight	too_tight	no_problem	too_tight	470	40	good	good	good	good	good		good			f	T-Shirts
+157	average	flat				regular	36	smaller			too_long		too_long	no_problem	no_problem				792	36	loose	long	good	good	good		loose	good		f	Buksedragter
+164	average	round				loose	44	smaller			too_short		too_long	no_problem	too_tight				792	44	good	short	good	good	good		good	good		f	Buksedragter
+168	broad	round				regular	44	exact			too_short		too_short	too_tight	too_tight				470	42	good	short	good	short	good		good			f	T-Shirts
+168	broad	round				regular	44	exact			too_short		too_short	too_tight	too_tight				470	42	good	short	good	short	good		good			f	T-Shirts
+168	broad	round				regular	44	exact			too_short		too_short	too_tight	too_tight				686	44	good	good	good	good	good		good			f	Toppe
+168	broad	round				regular	44	exact			too_short		too_short	too_tight	too_tight				686	44	good	good	good	good	good		good			f	Toppe
+159	broad	round				regular	42	bigger			too_long		too_long	too_tight	no_problem				447	40	good	long	good	good	good		good	good		f	Kjoler
+158	broad	round				slim	42	exact			too_long		too_long	too_tight	no_problem				792	40	good	long	good	good	good		loose	good		f	Buksedragter
+165	broad	round				regular	44	smaller			too_long		no_problem	too_tight	too_tight				1166	44	good	good	good	good	good		tight	good		f	Kjoler
+167	broad	round				regular	44	smaller			too_long		too_short	too_tight	too_tight				3075	44	good	good	good	good	good		loose	good		f	Alle produkter,Buksedragter,EVERY
+162	average	average				slim	40	smaller			too_long		too_short	too_tight	no_problem				792	40	good	long	good	too_short	good		loose	loose		f	Buksedragter
+154	average	average				regular	38	exact			no_problem		too_long	too_tight	too_tight				686	38	loose	good	good	good	good		good			f	Toppe
+154	average	average				regular	38	exact			no_problem		too_long	too_tight	too_tight				686	38	loose	good	good	good	good		good			f	Toppe
+165	broad	round				regular	42	exact			too_short		no_problem	too_tight	no_problem				470	42	good	good	good	good	good		good			f	T-Shirts
+165	broad	round				regular	42	exact			too_short		no_problem	too_tight	no_problem				470	42	good	good	good	good	good		good			f	T-Shirts
+161	broad	average				slim	40	bigger			too_long		too_long	too_tight	no_problem				987	38	loose	good	good	good	good		good	loose		f	Alle produkter,Kjoler
+173	average	average				regular	40	smaller			too_short		no_problem	no_problem	too_tight				1023	42	loose	good	bigger	short	good		loose	loose		f	Alle produkter,Buksedragter
+173	average	average				regular	40	smaller			too_short		no_problem	no_problem	too_tight				447	42	loose	short	bigger	short	too_loose		good	good		f	Kjoler
+163	average	round	wide	muscular	regular	regular	40	bigger	40	exact	too_long	too_long	too_long	too_tight	too_tight	too_tight	too_tight	too_tight	3607	40	good	long	good			good		good	good	f	Bukser
+163	average	round	wide	muscular	regular	regular	40	bigger	40	exact	too_long	too_long	too_long	too_tight	too_tight	too_tight	too_tight	too_tight	792	40	loose	good	good	good	too_loose		good	good		f	Buksedragter
+160	broad	round				regular	38	smaller			too_long		no_problem	too_tight	no_problem				447	38	good	long	good	good	good		good	good		f	Kjoler
+174	slim	flat	average	muscular	regular	regular	38	exact	42	bigger	no_problem	too_short	no_problem	no_problem	no_problem	no_problem	no_problem	too_tight	2832	40	good	good	good			tight		good	good	f	Nederdele
+174	slim	flat	average	muscular	regular	regular	38	exact	42	bigger	no_problem	too_short	no_problem	no_problem	no_problem	no_problem	no_problem	too_tight	470	36	good	good	good	good	good		good			f	T-Shirts
+174	slim	flat	average	muscular	regular	regular	38	exact	42	bigger	no_problem	too_short	no_problem	no_problem	no_problem	no_problem	no_problem	too_tight	470	36	good	good	good	good	good		good			f	T-Shirts
+162	broad	flat				slim	34	exact			too_long		too_long	too_tight	no_problem				686	34	good	good	good	good	good		good			f	Toppe
+162	broad	flat				slim	34	exact			too_long		too_long	too_tight	no_problem				686	34	good	good	good	good	good		good			f	Toppe
+178	slim	average				regular	40	smaller			too_short		too_short	no_problem	too_loose				3075	38	tight	short	smaller	good	good		good	too_tight		f	Alle produkter,Buksedragter,EVERY
+171	broad	round	slim	skinny	regular	regular	44	smaller	42	smaller	too_long	no_problem	no_problem	too_tight	too_tight	too_tight	too_loose	too_loose	3607	42	tight	good	too_big			good		too_loose	too_loose	f	Bukser
+171	broad	round	slim	skinny	regular	regular	44	smaller	42	smaller	too_long	no_problem	no_problem	too_tight	too_tight	too_tight	too_loose	too_loose	470	42	good	good	good	good	good		good			f	T-Shirts
+171	broad	round	slim	skinny	regular	regular	44	smaller	42	smaller	too_long	no_problem	no_problem	too_tight	too_tight	too_tight	too_loose	too_loose	470	42	good	good	good	good	good		good			f	T-Shirts
+176	slim	flat	wide	skinny	regular	regular	42	bigger	44	bigger	no_problem	too_short	too_short	no_problem	no_problem	no_problem	too_tight	no_problem	3607	40	loose	good	bigger			good		loose	loose	f	Bukser
+176	slim	flat	wide	skinny	regular	regular	42	bigger	44	bigger	no_problem	too_short	too_short	no_problem	no_problem	no_problem	too_tight	no_problem	470	34	good	good	good	good	good		good			f	T-Shirts
+176	slim	flat	wide	skinny	regular	regular	42	bigger	44	bigger	no_problem	too_short	too_short	no_problem	no_problem	no_problem	too_tight	no_problem	470	34	good	good	good	good	good		good			f	T-Shirts
+166	average	round				regular	44	bigger			too_long		too_long	no_problem	too_tight				3075	42	tight	long	smaller	good	loose		tight	tight		f	Alle produkter,Buksedragter,EVERY
+172	average	average				slim	40	bigger			no_problem		no_problem	too_tight	no_problem				792	38	good	good	good	good	good		good	good		f	Buksedragter
+162	broad	average				regular	42	bigger			too_long		too_long	too_tight	no_problem				792	38	good	good	good	good	good		good	good		f	Buksedragter
+163	broad	round				loose	46	smaller			too_long		too_long	too_tight	too_tight				792	48	loose	good	good	good	good		loose	good		f	Buksedragter
+169	average	round				regular	44	smaller			too_short		too_long	too_tight	too_tight				2709	42	good	good	good	good	good		good	good		f	Kjoler
+174	average	average				regular	48	exact			too_short		no_problem	too_tight	too_loose				383	48	good	good	good	good	good		good	good		f	Kjoler
+162	broad	average				regular	42	smaller			too_long		too_long	too_tight	too_tight				470	42	good	good	good	good	good		good			f	T-Shirts
+162	broad	average				regular	42	smaller			too_long		too_long	too_tight	too_tight				470	42	good	good	good	good	good		good			f	T-Shirts
+179	broad	round				regular	42	smaller			too_short		no_problem	too_tight	too_tight				792	42	good	good	good	good	good		good	good		f	Buksedragter
+172	average	average				regular	38	smaller			no_problem		too_short	no_problem	no_problem				447	38	good	good	good	good	good		good	good		f	Kjoler
+172	broad	round				slim	42	smaller			too_long		no_problem	too_tight	too_tight				792	42	tight	short	smaller	good	tight		tight	tight		f	Buksedragter
+164	slim	flat				regular	38	bigger			too_long		too_long	no_problem	no_problem				792	38	loose	long	too_big	good	loose		good	good		f	Buksedragter
+167	slim	average				regular	40	bigger			no_problem		too_short	too_loose	too_loose				792	38	tight	good	smaller	good	good		good	good		f	Buksedragter
+173	broad	round				regular	44	exact			too_short		no_problem	too_tight	too_tight				447	44	good	short	good	good	good		good	good		f	Kjoler
+168	broad	round				regular	46	smaller			too_short		too_long	too_loose	too_tight				3075	50	loose	good	bigger	good	loose		good	loose		f	Alle produkter,Buksedragter,EVERY
+168	broad	round				regular	46	smaller			too_short		too_long	too_loose	too_tight				470	46	good	good	good	good	good		tight			f	T-Shirts
+168	broad	round				regular	46	smaller			too_short		too_long	too_loose	too_tight				470	46	good	good	good	good	good		tight			f	T-Shirts
+156	broad	round				regular	44	bigger			too_long		too_long	too_tight	too_tight				1076	44	tight	long	good	good	good		tight	good		f	Kjoler
+156	broad	round				regular	44	bigger			too_long		too_long	too_tight	too_tight				792	44	good	long	good	good	loose		good	good		f	Buksedragter
+167	broad	average				regular	40	smaller			too_long		too_long	too_tight	too_tight				447	40	good	good	good	good	loose		loose	loose		f	Kjoler
+164	average	round				regular	44	smaller			too_long		no_problem	too_tight	too_tight				1166	44	tight	good	good	good	good		tight	good		f	Kjoler
+164	average	round				regular	44	smaller			too_long		no_problem	too_tight	too_tight				470	44	good	good	good	good	good		good			f	T-Shirts
+164	average	round				regular	44	smaller			too_long		no_problem	too_tight	too_tight				470	44	good	good	good	good	good		good			f	T-Shirts
+175	average	round				loose	46	smaller			no_problem		no_problem	too_tight	too_tight				792	46	good	good	good	good	good		tight	tight		f	Buksedragter
+182	broad	average				regular	42	smaller			too_short		too_short	too_tight	too_tight				470	40	good	good	good	good	good		good			f	T-Shirts
+182	broad	average				regular	42	smaller			too_short		too_short	too_tight	too_tight				470	40	good	good	good	good	good		good			f	T-Shirts
+173	broad	round				regular	44	exact			no_problem		no_problem	too_tight	too_tight				3075	44	good	good	good	good	good		good	good		f	Alle produkter,Buksedragter,EVERY
+163	broad	round				regular	42	exact			too_long		too_long	too_tight	too_tight				1166	42	tight	good	smaller	good	good		tight	tight		f	Kjoler
+167	broad	round				regular	46	smaller			too_long		no_problem	too_tight	too_tight				1166	46	good	good	good	good	good		good	good		f	Kjoler
+167	broad	round				regular	46	smaller			too_long		no_problem	too_tight	too_tight				447	46	loose	good	good	good	loose		good	good		f	Kjoler
+160	broad	round				regular	44	exact			too_long		too_long	too_tight	too_tight				1166	44	good	good	good	good	good		good	good		f	Kjoler
+160	broad	round				regular	44	exact			too_long		too_long	too_tight	too_tight				700	44	good	good	good	good	good		good			f	Alle produkter,EVERY,Overdele
+160	broad	round				regular	44	exact			too_long		too_long	too_tight	too_tight				700	44	good	good	good	good	good		good			f	Alle produkter,EVERY,Overdele
+160	broad	round				regular	44	exact			too_long		too_long	too_tight	too_tight				792	44	good	long	good	good	good		good	good		f	Buksedragter
+167	average	average				regular	38	exact			too_long		too_long	no_problem	no_problem				3075	38	good	good	good	good	good		good	good		f	Alle produkter,Buksedragter,EVERY
+163	average	flat				regular	38	bigger			too_long		too_long	too_tight	no_problem				447	34	good	long	good	good	good		good	good		f	Kjoler
+176	average	average				regular	38	smaller			too_short		too_short	no_problem	no_problem				1132	36	good	good	good	good	good		good	good		f	Kjoler
+176	average	average				regular	38	smaller			too_short		too_short	no_problem	no_problem				792	36	good	short	good	good	loose		good	good		f	Buksedragter
+168	slim	flat				slim	38	bigger			no_problem		no_problem	no_problem	no_problem				792	36	good	good	good	good	good		good	good		f	Buksedragter
+172	slim	average				regular	42	smaller			no_problem		no_problem	too_tight	no_problem				1076	42	loose	good	bigger	good	loose		loose	good		f	Kjoler
+172	slim	average				regular	42	smaller			no_problem		no_problem	too_tight	no_problem				470	42	loose	long	bigger	good	good		loose			f	T-Shirts
+172	slim	average				regular	42	smaller			no_problem		no_problem	too_tight	no_problem				470	42	loose	long	bigger	good	good		loose			f	T-Shirts
+172	slim	average				regular	42	smaller			no_problem		no_problem	too_tight	no_problem				792	42	good	good	good	short	good		loose	good		f	Buksedragter
+180	average	round				regular	48	bigger			no_problem		too_short	too_tight	too_tight				2709	44	good	good	good	good	good		tight	good		f	Kjoler
+170	broad	average				slim	40	smaller			no_problem		no_problem	too_tight	too_tight				746	38	good	good	good	good	good		good			f	Toppe
+170	broad	average				slim	40	smaller			no_problem		no_problem	too_tight	too_tight				746	38	good	good	good	good	good		good			f	Toppe
+172	average	average				regular	40	smaller			too_short		too_short	no_problem	too_tight				1132	40	good	good	good	short	good		good	good		f	Kjoler
+167	broad	round				regular	48	bigger			too_long		no_problem	too_tight	too_tight				1132	46	good	long	good	good	good		good	good		f	Kjoler
+170	slim	average				regular	42	exact			no_problem		too_short	too_loose	too_tight				792	42	good	good	good	good	loose		good	good		f	Buksedragter
+176	broad	round				loose	46	bigger			no_problem		no_problem	too_tight	too_tight				792	44	good	good	good	good	good		tight	good		f	Buksedragter
+174	broad	round				regular	54	bigger			too_short		no_problem	too_tight	too_tight				1132	54	good	good	good	good	good		good	good		f	Kjoler
+174	broad	round				loose	52	smaller			too_short		too_short	too_tight	too_tight				3540	52	good	good	good	good	good		good	good		f	Kjoler
+163	broad	average				regular	40	bigger			too_short		too_long	too_tight	no_problem				1132	40	tight	long	smaller	good	tight		tight	loose		f	Kjoler
+163	broad	average				regular	40	bigger			too_short		too_long	too_tight	no_problem				470	38	good	short	good	short	good		loose			f	T-Shirts
+163	broad	average				regular	40	bigger			too_short		too_long	too_tight	no_problem				470	38	good	short	good	short	good		loose			f	T-Shirts
+167	slim	average				regular	44	bigger			too_long		no_problem	too_loose	too_loose				792	42	tight	good	smaller	good	good		good	too_tight		f	Buksedragter
+165	average	average				slim	40	smaller			too_long		too_long	no_problem	too_tight				792	38	good	good	good	good	good		good	good		f	Buksedragter
+169	broad	round				loose	46	smaller			no_problem		too_short	too_tight	no_problem				3540	46	tight	good	smaller	short	good		good	good		f	Kjoler
+169	broad	round				loose	46	smaller			no_problem		too_short	too_tight	no_problem				792	46	good	good	good	short	good		good	good		f	Buksedragter
+165	broad	round				regular	40	smaller			too_long		too_long	too_tight	too_tight				470	42	good	good	good	good	good		loose			f	T-Shirts
+165	broad	round				regular	40	smaller			too_long		too_long	too_tight	too_tight				470	42	good	good	good	good	good		loose			f	T-Shirts
+166	broad	average				regular	44	smaller			too_long		no_problem	too_tight	no_problem				1166	44	good	good	good	good	good		good	good		f	Kjoler
+172	broad	round				loose	46	smaller			no_problem		no_problem	too_tight	too_tight				447	46	good	good	good	good	good		tight	good		f	Kjoler
+176	average	average				regular	46	smaller			too_short		too_short	too_loose	no_problem				792	44	good	short	good	good	loose		good	loose		f	Buksedragter
+163	broad	round				regular	44	smaller			too_long		no_problem	too_tight	too_tight				792	44	good	good	good	good	good		good	loose		f	Buksedragter
+166	broad	round	wide	muscular	regular	regular	46	bigger	46	smaller	too_long	too_long	too_long	too_tight	too_tight	too_tight	too_tight	too_tight	2832	46	good	long	good			good		good	good	f	Nederdele
+166	broad	round	wide	muscular	regular	regular	46	bigger	46	smaller	too_long	too_long	too_long	too_tight	too_tight	too_tight	too_tight	too_tight	470	42	good	good	good	good	good		good			f	T-Shirts
+166	broad	round	wide	muscular	regular	regular	46	bigger	46	smaller	too_long	too_long	too_long	too_tight	too_tight	too_tight	too_tight	too_tight	470	42	good	good	good	good	good		good			f	T-Shirts
+170	broad	average				regular	42	smaller			too_long		no_problem	too_tight	no_problem				792	42	tight	short	bigger	good	tight		good	too_loose		f	Buksedragter
+161	broad	average				regular	40	bigger			too_long		too_long	too_tight	no_problem				1076	38	tight	good	good	good	tight		good	good		f	Kjoler
+178	broad	round				loose	46	smaller			too_short		too_short	too_tight	too_tight				792	48	good	good	good	good	good		good	good		f	Buksedragter
+168	slim	average				slim	38	exact			too_short		no_problem	too_loose	no_problem				447	38	loose	good	bigger	good	loose		good	good		f	Kjoler
+180	broad	average				regular	42	smaller			too_long		no_problem	too_tight	too_tight				3540	42	good	good	good	good	tight		good	too_loose		f	Kjoler
+177	slim	flat				slim	38	smaller			no_problem		no_problem	too_loose	no_problem				1076	38	good	good	good	good	loose		good	good		f	Kjoler
+175	broad	average				regular	46	smaller			no_problem		too_short	too_tight	too_tight				383	46	good	good	good	good	good		good	good		f	Kjoler
+155	broad	round				regular	44	bigger			too_long		too_long	too_tight	too_tight				1166	42	good	good	good	good	good		good	good		f	Kjoler
+167	average	round				regular	42	smaller			too_long		too_long	too_tight	too_tight				3075	42	good	good	good	good	good		good	good		f	Alle produkter,Buksedragter,EVERY
+164	broad	average				regular	42	exact			too_long		too_long	too_tight	no_problem				792	42	tight	long	smaller	good	good		tight	tight		f	Buksedragter
+172	slim	flat				regular	40	exact			too_short		no_problem	too_loose	no_problem				1166	40	loose	good	bigger	good	loose		loose	loose		f	Kjoler
+180	broad	round				regular	40	exact			too_short		too_short	no_problem	too_tight				1076	42	loose	long	good	too_short	loose		good	good		f	Kjoler
+180	broad	round				regular	40	exact			too_short		too_short	no_problem	too_tight				1132	42	good	good	good	short	good		good	good		f	Kjoler
+169	broad	average				regular	44	bigger			no_problem		no_problem	too_tight	too_tight				447	42	tight	good	good	good	good		tight	good		f	Kjoler
+161	broad	round				regular	44	smaller			too_long		too_long	no_problem	no_problem				447	42	good	good	good	good	good		good	good		f	Kjoler
+160	average	round				regular	40	smaller			too_long		too_long	too_tight	too_tight				792	40	good	good	good	good	loose		good	tight		f	Buksedragter
+172	broad	average				regular	40	smaller			no_problem		too_short	too_tight	too_tight				1166	42	loose	good	good	good	too_loose		good	good		f	Kjoler
+172	broad	average				regular	40	smaller			no_problem		too_short	too_tight	too_tight				383	40	good	good	good	good	good		good	good		f	Kjoler
+172	broad	average				regular	40	smaller			no_problem		too_short	too_tight	too_tight				792	40	good	short	good	good	good		good	good		f	Buksedragter
+167	average	average				regular	40	smaller			no_problem		no_problem	no_problem	too_tight				447	40	good	good	bigger	good	loose		loose	good		f	Kjoler
+164	broad	average				regular	41	smaller			too_long		too_short	too_tight	too_tight				447	40	tight	long	smaller	good	good		tight	good		f	Kjoler
+170	average	round				regular	44	bigger			too_long		too_short	too_tight	too_tight				700	42	good	good	good	good	good		good			f	Alle produkter,EVERY,Overdele
+170	average	round				regular	44	bigger			too_long		too_short	too_tight	too_tight				700	42	good	good	good	good	good		good			f	Alle produkter,EVERY,Overdele
+170	average	round				regular	44	bigger			too_long		too_short	too_tight	too_tight				792	42	good	good	good	good	good		good	good		f	Buksedragter
+179	average	average				regular	44	smaller			no_problem		no_problem	no_problem	no_problem				1132	44	tight	good	smaller	good	good		tight	good		f	Kjoler
+173	broad	round				regular	46	smaller			no_problem		no_problem	too_tight	too_loose				792	44	good	short	good	short	loose		good	good		f	Buksedragter
+165	average	average	wide	muscular	regular	regular	40	bigger	40	bigger	no_problem	no_problem	no_problem	no_problem	no_problem	too_loose	too_tight	too_tight	2832	40	good	good	good			good		good	good	f	Nederdele
+165	average	average	wide	muscular	regular	regular	40	bigger	40	bigger	no_problem	no_problem	no_problem	no_problem	no_problem	too_loose	too_tight	too_tight	3607	40	tight	good	too_small			too_loose		tight	tight	f	Bukser
+165	average	average	wide	muscular	regular	regular	40	bigger	40	bigger	no_problem	no_problem	no_problem	no_problem	no_problem	too_loose	too_tight	too_tight	470	38	good	short	good	good	good		good			f	T-Shirts
+165	average	average	wide	muscular	regular	regular	40	bigger	40	bigger	no_problem	no_problem	no_problem	no_problem	no_problem	too_loose	too_tight	too_tight	470	38	good	short	good	good	good		good			f	T-Shirts
+158	broad	round				regular	44	exact			too_short		too_long	too_tight	too_tight				686	44	good	good	good	good	good		good			f	Toppe
+158	broad	round				regular	44	exact			too_short		too_long	too_tight	too_tight				686	44	good	good	good	good	good		good			f	Toppe
+158	broad	round				regular	44	exact			too_short		too_long	too_tight	too_tight				746	44	loose	good	good	good	good		good			f	Toppe
+158	broad	round				regular	44	exact			too_short		too_long	too_tight	too_tight				746	44	loose	good	good	good	good		good			f	Toppe
+185	average	round				regular	50	exact			too_short		too_short	too_tight	too_loose				686	50	loose	short	good	good	good		good			f	Toppe
+185	average	round				regular	50	exact			too_short		too_short	too_tight	too_loose				686	50	loose	short	good	good	good		good			f	Toppe
+167	average	average				regular	40	smaller			no_problem		no_problem	no_problem	too_tight				1166	40	good	good	good	good	good		good	good		f	Kjoler
+167	average	average				regular	38	bigger			too_long		too_long	too_tight	too_tight				792	40	good	short	good	too_short	good		good	good		f	Buksedragter
+170	broad	round	wide	muscular	regular	regular	45	smaller	42	smaller	too_short	too_short	no_problem	too_tight	no_problem	too_tight	too_tight	too_tight	2832	42	tight	good	smaller			good		tight	tight	f	Nederdele
+170	broad	round	wide	muscular	regular	regular	45	smaller	42	smaller	too_short	too_short	no_problem	too_tight	no_problem	too_tight	too_tight	too_tight	686	42	good	good	good	good	good		good			f	Toppe
+170	broad	round	wide	muscular	regular	regular	45	smaller	42	smaller	too_short	too_short	no_problem	too_tight	no_problem	too_tight	too_tight	too_tight	686	42	good	good	good	good	good		good			f	Toppe
+168	broad	average				regular	42	exact			no_problem		no_problem	too_tight	no_problem				792	42	good	good	good	good	good		good	loose		f	Buksedragter
+169	broad	round				slim	52	bigger			too_short		too_short	too_loose	too_loose				3540	52	good	good	good	good	good		good	good		f	Kjoler
+167	average	round				regular	44				no_problem		no_problem	no_problem	no_problem				470	40	loose	good	good	good	good		good			f	T-Shirts
+167	average	round				regular	44				no_problem		no_problem	no_problem	no_problem				470	40	loose	good	good	good	good		good			f	T-Shirts
+181	broad	round				regular	44	bigger			no_problem		no_problem	too_loose	too_loose				470	42	good	good	good	good	loose		good			f	T-Shirts
+181	broad	round				regular	44	bigger			no_problem		no_problem	too_loose	too_loose				470	42	good	good	good	good	loose		good			f	T-Shirts
+169	average	average				regular	40	exact			no_problem		too_long	no_problem	too_tight				470	38	loose	long	smaller	good	good		loose			f	T-Shirts
+169	average	average				regular	40	exact			no_problem		too_long	no_problem	too_tight				470	38	loose	long	smaller	good	good		loose			f	T-Shirts
+165	broad	round				loose	46	smaller			too_short		no_problem	too_tight	too_tight				1166	46	good	good	good	good	good		good	good		f	Kjoler
+165	broad	round				loose	46	smaller			too_short		no_problem	too_tight	too_tight				470	44	tight	short	good	good	tight		good			f	T-Shirts
+165	broad	round				loose	46	smaller			too_short		no_problem	too_tight	too_tight				470	44	tight	short	good	good	tight		good			f	T-Shirts
+168	broad	round				regular	46	smaller			too_long		no_problem	too_tight	too_tight				792	46	good	long	good	good	loose		good	good		f	Buksedragter
+172	average	average				regular	44	exact			no_problem		no_problem	no_problem	no_problem				792	44	good	good	good	good	good		good	good		f	Buksedragter
+172	broad	average				regular	40	exact			no_problem		no_problem	too_tight	too_tight				470	40	loose	good	bigger	good	loose		good			f	T-Shirts
+172	broad	average				regular	40	exact			no_problem		no_problem	too_tight	too_tight				470	40	loose	good	bigger	good	loose		good			f	T-Shirts
+172	broad	average				regular	40	exact			no_problem		no_problem	too_tight	too_tight				792	40	tight	long	smaller	good	tight		tight	loose		f	Buksedragter
+168	broad	flat				regular	40	bigger			too_long		too_long	no_problem	too_tight				700	42	loose	short	bigger	good	good		good			f	Alle produkter,EVERY,Overdele
+168	broad	flat				regular	40	bigger			too_long		too_long	no_problem	too_tight				700	42	loose	short	bigger	good	good		good			f	Alle produkter,EVERY,Overdele
+168	broad	round	wide	muscular	regular	regular	46	bigger	46	exact	too_long	too_short	no_problem	no_problem	too_loose	no_problem	too_tight	too_tight	2832	46	good	good	good			good		tight	good	f	Nederdele
+168	broad	round	wide	muscular	regular	regular	46	bigger	46	exact	too_long	too_short	no_problem	no_problem	too_loose	no_problem	too_tight	too_tight	686	46	loose	good	good	good	good		loose			f	Toppe
+168	broad	round	wide	muscular	regular	regular	46	bigger	46	exact	too_long	too_short	no_problem	no_problem	too_loose	no_problem	too_tight	too_tight	686	46	loose	good	good	good	good		loose			f	Toppe
+170	broad	round				regular	46	smaller			too_long		no_problem	too_tight	too_tight				792	46	good	long	good	good	loose		good	good		f	Buksedragter
+160	average	flat				regular	40	exact			too_long		too_long	no_problem	no_problem				792	38	loose	good	good	good	loose		good	loose		f	Buksedragter
+175	average	average				regular	44	bigger			no_problem		no_problem	no_problem	too_tight				447	42	good	good	good	good	good		tight	good		f	Kjoler
+175	average	average				regular	44	bigger			no_problem		no_problem	no_problem	too_tight				470	42	good	good	good	good	loose		good			f	T-Shirts
+175	average	average				regular	44	bigger			no_problem		no_problem	no_problem	too_tight				470	42	good	good	good	good	loose		good			f	T-Shirts
+172	broad	round				regular	48	exact			too_long		too_long	too_tight	too_tight				792	48	tight	good	good	good	good		tight	good		f	Buksedragter
+172	average	average				regular	44	smaller			no_problem		no_problem	no_problem	too_loose				1166	44	good	good	good	good	loose		good	good		f	Kjoler
+171	broad	round	wide	muscular	regular	regular	46	bigger	46	smaller	too_short	no_problem	no_problem	too_tight	no_problem	too_tight	too_tight	too_tight	3607	48	good	long	good			good		good	good	f	Bukser
+171	broad	round	wide	muscular	regular	regular	46	bigger	46	smaller	too_short	no_problem	no_problem	too_tight	no_problem	too_tight	too_tight	too_tight	792	46	good	short	good	good	loose		good	good		f	Buksedragter
+160	average	round	wide	muscular	regular	regular	44	bigger	44	exact	too_short	too_long	too_short	no_problem	too_tight	too_tight	too_tight	no_problem	3607	44	good	long	good			tight		good	good	f	Bukser
+160	average	round	wide	muscular	regular	regular	44	bigger	44	exact	too_short	too_long	too_short	no_problem	too_tight	too_tight	too_tight	no_problem	686	44	good	good	good	short	good		tight			f	Toppe
+160	average	round	wide	muscular	regular	regular	44	bigger	44	exact	too_short	too_long	too_short	no_problem	too_tight	too_tight	too_tight	no_problem	686	44	good	good	good	short	good		tight			f	Toppe
+174	broad	round				loose	48	exact			too_short		no_problem	too_loose	too_tight				470	46	tight	good	good	good	good		good			f	T-Shirts
+174	broad	round				loose	48	exact			too_short		no_problem	too_loose	too_tight				470	46	tight	good	good	good	good		good			f	T-Shirts
+162	broad	round				slim	44	exact			too_long		no_problem	too_tight	too_tight				1166	42	tight	long	too_small	short	good		tight	too_tight		f	Kjoler
+168	broad	round				regular	52	smaller			too_long		too_long	too_loose	too_tight				470	52	good	good	good	good	good		good			f	T-Shirts
+168	broad	round				regular	52	smaller			too_long		too_long	too_loose	too_tight				470	52	good	good	good	good	good		good			f	T-Shirts
+158	broad	round				regular	44	bigger			too_long		too_long	too_tight	too_tight				383	48	good	good	good	good	good		good	good		f	Kjoler
+184	slim	average				regular	42	smaller			too_short		no_problem	no_problem	too_loose				1166	46	good	good	good	long	too_loose		too_loose	too_loose		f	Kjoler
+161	broad	round				regular	44	bigger			too_long		too_long	too_tight	too_tight				1166	42	good	good	good	good	good		good	good		f	Kjoler
+176	broad	round				regular	44	bigger			no_problem		no_problem	too_tight	no_problem				3540	42	good	good	good	good	tight		good	loose		f	Kjoler
+165	average	round				regular	44	exact			too_long		too_long	no_problem	too_tight				470	44	loose	good	bigger	good	loose		loose			f	T-Shirts
+165	average	round				regular	44	exact			too_long		too_long	no_problem	too_tight				470	44	loose	good	bigger	good	loose		loose			f	T-Shirts
+163	average	round				regular	38	exact			too_long		too_long	too_tight	too_tight				3075	38	good	long	good	good	good		good	good		f	Alle produkter,Buksedragter,EVERY
+176	broad	round				regular	44	bigger			no_problem		no_problem	too_tight	no_problem				470	44	loose	good	good	good	good		good			f	T-Shirts
+176	broad	round				regular	44	bigger			no_problem		no_problem	too_tight	no_problem				470	44	loose	good	good	good	good		good			f	T-Shirts
+172	broad	round				regular	44	exact			too_short		no_problem	too_tight	too_tight				447	44	loose	long	bigger	good	loose		loose	loose		f	Kjoler
+175	broad	round				regular	48	smaller			no_problem		no_problem	too_tight	too_tight				383	48	tight	good	good	too_short	loose		good	good		f	Kjoler
+168	broad	round				regular	46	exact			too_long		no_problem	too_tight	too_tight				3075	46	tight	good	good	good	good		tight	good		f	Alle produkter,Buksedragter,EVERY
+175	broad	round				regular	44	bigger			no_problem		no_problem	too_tight	too_tight				792	46	good	short	good	good	good		good	good		f	Buksedragter
+168	broad	round				regular	42	smaller			no_problem		no_problem	too_tight	too_tight				3075	44	good	short	good	good	good		good	good		f	Alle produkter,Buksedragter,EVERY
+165	broad	round				regular	48	smaller			too_long		too_long	too_tight	too_tight				1166	48	loose	good	bigger	good	too_loose		good	good		f	Kjoler
+163	slim	flat				regular	40	bigger			too_long		no_problem	too_loose	no_problem				3075	38	good	good	good	good	loose		good	good		f	Alle produkter,Buksedragter,EVERY
+178	broad	round				regular	44	smaller			too_short		too_short	too_tight	too_tight				686	46	good	good	bigger	good	loose		good			f	Toppe
+178	broad	round				regular	44	smaller			too_short		too_short	too_tight	too_tight				686	46	good	good	bigger	good	loose		good			f	Toppe
+168	broad	average	average	muscular	regular	regular	40	exact	40	bigger	no_problem	no_problem	no_problem	too_tight	no_problem	no_problem	no_problem	no_problem	3607	40	good	good	good			good		good	good	f	Bukser
+168	broad	average	average	muscular	regular	regular	40	exact	40	bigger	no_problem	no_problem	no_problem	too_tight	no_problem	no_problem	no_problem	no_problem	686	42	loose	good	good	good	loose		good			f	Toppe
+168	broad	average	average	muscular	regular	regular	40	exact	40	bigger	no_problem	no_problem	no_problem	too_tight	no_problem	no_problem	no_problem	no_problem	686	42	loose	good	good	good	loose		good			f	Toppe
+169	broad	round				slim	46	smaller			too_long		no_problem	too_loose	no_problem				383	46	good	long	good	short	good		good	good		f	Kjoler
+161	slim	flat				regular	36	exact			too_long		too_long	no_problem	no_problem				3075	36	good	good	good	good	good		good	good		f	Alle produkter,Buksedragter,EVERY
+170	average	round				slim	44	smaller			too_short		too_short	too_tight	too_tight				447	44	good	good	good	good	loose		tight	good		f	Kjoler
+179	broad	average				slim	44	smaller			too_short		no_problem	too_tight	too_loose				383	44	good	good	good	good	good		loose	good		f	Kjoler
+169	broad	round				loose	44	bigger			too_short		too_long	too_tight	too_tight				792	42	good	long	good	good	tight		good	good		f	Buksedragter
+175	average	round				regular	52	exact			no_problem		no_problem	no_problem	no_problem				1166	52	loose	good	good	good	too_loose		loose	loose		f	Kjoler
+172	broad	average				regular	44	exact			no_problem		no_problem	no_problem	no_problem				792	44	loose	good	bigger	good	loose		loose	good		f	Buksedragter
+168	broad	round				regular	44	smaller			no_problem		no_problem	too_tight	too_tight				383	44	good	long	good	good	good		good	good		f	Kjoler
+173	broad	average	average	muscular	regular	regular	42	exact	42	exact	too_short	too_short	no_problem	too_tight	too_tight	too_tight	too_tight	too_tight	2832	42	good	good	good			good		good	good	f	Nederdele
+173	broad	average	average	muscular	regular	regular	42	exact	42	exact	too_short	too_short	no_problem	too_tight	too_tight	too_tight	too_tight	too_tight	383	42	loose	good	bigger	good	loose		good	good		f	Kjoler
+173	broad	average	average	muscular	regular	regular	42	exact	42	exact	too_short	too_short	no_problem	too_tight	too_tight	too_tight	too_tight	too_tight	686	42	good	good	good	good	good		good			f	Toppe
+173	broad	average	average	muscular	regular	regular	42	exact	42	exact	too_short	too_short	no_problem	too_tight	too_tight	too_tight	too_tight	too_tight	686	42	good	good	good	good	good		good			f	Toppe
+170	broad	round				regular	48	exact			no_problem		no_problem	too_tight	no_problem				3075	46	good	good	good	good	good		good	good		f	Alle produkter,Buksedragter,EVERY
